@@ -1,1 +1,1 @@
-window.location = "http://www.mccitynetwork.tk/dashboard/";
+window.close();
